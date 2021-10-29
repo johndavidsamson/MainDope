@@ -1,0 +1,93 @@
+FLOOR_2://**************************************************SECOND FLOOR************************************************************
+            while(floorOne){// ***********************************MONSTER BATTLE*************************************************************
+                String[] monstersOne = {"Mandrake","Ghoul","Poisonous Mushroom","Ogre"};// CHANGE PER FLOOR
+                int maxMonsterHp = 200;// CHANGE PER FLOOR
+                int monsterAtkDmg = 200;// CHANGE PER FLOOR
+                int hpPotionAmount = 60;// CHANGE PER FLOOR
+                int mpPotionAmount = 60;// CHANGE PER FLOOR
+                int hpPotionDropChance = 50;//percentage
+                int mpPotionDropChance = 50;
+                
+            while(running){//*************************************FIRST BOSS BATTLE************************************************************
+
+                    enemy = new Enemy("Oni Ou", 1000, 100, "Blue Blaze", 150, 100);// CHANGE PER FLOOR
+
+            
+
+             //**********************************************************THIRD FLOOR DIALOGUE***************************************************
+             FLOOR_3://**************************************************THIRD FLOOR************************************************************
+            while(floorThree){// ***********************************MONSTER BATTLE*************************************************************
+                String[] monstersOne = {"Wild Crab","Siren","Giant Toad","Sahuagin"};// CHANGE PER FLOOR
+                int maxMonsterHp = 300;// CHANGE PER FLOOR
+                int monsterAtkDmg = 300;// CHANGE PER FLOOR
+                int hpPotionAmount = 90;// CHANGE PER FLOOR
+                int mpPotionAmount = 90;// CHANGE PER FLOOR
+                int hpPotionDropChance = 50;//percentage
+                int mpPotionDropChance = 50;
+                
+                                while(running){//*************************************THIRD BOSS BATTLE************************************************************
+
+                    enemy = new Enemy("Hydra", 1500, 150, "Acidic Saliva", 200, 150);// CHANGE PER FLOOR
+             
+             //**************************************************FLOOR 4 DIALOGUE INPUT******************************************************
+            FLOOR_4://**************************************************FOURTH FLOOR************************************************************
+            while(floorFour){// ***********************************MONSTER BATTLE*************************************************************
+                String[] monstersOne = {"Giant bat","Gale","Harpy","Wyvern"};// CHANGE PER FLOOR
+                int maxMonsterHp = 400;// CHANGE PER FLOOR
+                int monsterAtkDmg = 400;// CHANGE PER FLOOR
+                int hpPotionAmount = 120;// CHANGE PER FLOOR
+                int mpPotionAmount = 120;// CHANGE PER FLOOR
+                int hpPotionDropChance = 50;//percentage
+                int mpPotionDropChance = 50;
+                
+                
+                while(running){//*************************************FOURTH BOSS BATTLE************************************************************
+
+                    enemy = new Enemy("Karasu Tengu", 2000, 200, "Unseen Storm", 250, 200);// CHANGE PER FLOOR
+             
+             //**********************************************************FIFTH FLOOR DIALOGUE***************************************************
+             FLOOR_5://**************************************************FIFTH FLOOR************************************************************
+            while(floorFive){// ***********************************MONSTER BATTLE*************************************************************
+                String[] monstersOne = {"Fenrir","Dark Spirit","Demon","Nue"};// CHANGE PER FLOOR
+                int maxMonsterHp = 500;// CHANGE PER FLOOR
+                int monsterAtkDmg = 500;// CHANGE PER FLOOR
+                int hpPotionAmount = 150;// CHANGE PER FLOOR
+                int mpPotionAmount = 150;// CHANGE PER FLOOR
+                int hpPotionDropChance = 50;//percentage
+                int mpPotionDropChance = 50;
+                
+                
+                while(running){//*************************************FIFTH BOSS BATTLE************************************************************
+
+                    enemy = new Enemy("Feral King", 2500, 250, "Dark Claw", 300, 350);// CHANGE PER FLOOR
+
+              //**************************************************FLOOR 6 DIALOGUE INPUT******************************************************
+            FLOOR_6://**************************************************SIXTH FLOOR************************************************************
+            while(floorSix){// ***********************************MONSTER BATTLE*************************************************************
+                String[] monstersOne = {"Mummy","Possessed Skeleton","Silverback","Minotaur"};// CHANGE PER FLOOR
+                int maxMonsterHp = 600;// CHANGE PER FLOOR
+                int monsterAtkDmg = 600;// CHANGE PER FLOOR
+                int hpPotionAmount = 180;// CHANGE PER FLOOR
+                int mpPotionAmount = 180;// CHANGE PER FLOOR
+                int hpPotionDropChance = 50;//percentage
+                int mpPotionDropChance = 50;
+                
+                while(running){//*************************************SIXTH BOSS BATTLE************************************************************
+
+                    enemy = new Enemy("Black Bahamut", 3000, 300, "Dark Flame", 450, 400);// CHANGE PER FLOOR
+             
+             //**********************************************************SEVEN FLOOR DIALOGUE***************************************************
+             FLOOR_7://**************************************************SEVEN FLOOR************************************************************
+            while(floorSeven){// ***********************************MONSTER BATTLE*************************************************************
+                String[] monstersOne = {"Contaminated Slime","Subsutarian","Arc Demon","Chimera"};// CHANGE PER FLOOR
+                int maxMonsterHp = 700;// CHANGE PER FLOOR
+                int monsterAtkDmg = 700;// CHANGE PER FLOOR
+                int hpPotionAmount = 210;// CHANGE PER FLOOR
+                int mpPotionAmount = 210;// CHANGE PER FLOOR
+                int hpPotionDropChance = 50;//percentage
+                int mpPotionDropChance = 50;
+                
+                
+                while(running){//*************************************SEVENTH BOSS BATTLE************************************************************
+
+                    enemy = new Enemy("Acnologia", 3500, 350, "Black Ablaze", 500, 450);// CHANGE PER FLOOR
